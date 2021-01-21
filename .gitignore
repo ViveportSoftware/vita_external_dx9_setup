@@ -1,0 +1,15 @@
+# folders
+dist/
+source/.vs/
+source/generated/
+source/packages/
+temp/
+tools/*
+
+# files
+*.log
+*.userprefs
+.DS_Store
+
+# kept files
+!tools/packages.config
