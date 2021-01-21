@@ -1,5 +1,7 @@
 # HTC Package for DirectX 9.0
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5hh8vffahr1bn9tg/branch/master?svg=true)](https://ci.appveyor.com/project/kenelin/vita-external-dx9-setup/branch/master)
+
 ## Dependency
 
 Compile-time dependencies:
